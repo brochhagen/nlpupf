@@ -1,0 +1,18 @@
+Session 1:
+- General overview
+- Exercises on basic tokenization, normalization
+
+
+Instructions for following week:
+  - Introduce spaCy (based on URL)
+  - Introduce regex (based on Jurafsky & Martin's Chapter 2)
+  - Read Chapter 2 of Jurafsky & Martin
+  - Read introduction to spaCy (URL)
+  - Let instructor know if you want to introduce one of the concepts for next week ASAP.
+
+Session 2:
+- Regex
+- Using spaCy: Tokenization, normalization
+
+Session 3:
+- Language models and deep learning
