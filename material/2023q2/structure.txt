@@ -1,18 +1,29 @@
 Session 1:
 - General overview
+- Everyone introduces themselves and what they expect from the class
 - Exercises on basic tokenization, normalization
 
 
 Instructions for following week:
-  - Introduce spaCy (based on URL)
-  - Introduce regex (based on Jurafsky & Martin's Chapter 2)
+  - [OPTIONAL] Introduce spaCy (based on URL):
+	- short introduction of what spacy is (1-3 minutes)
+	- Discuss and solve the exercises from "session02 spaCy"
+  - [OPTIONAL] Introduce regex (based on Jurafsky & Martin's Chapter 2): 3-5 minutes
   - Read Chapter 2 of Jurafsky & Martin
-  - Read introduction to spaCy (URL)
-  - Let instructor know if you want to introduce one of the concepts for next week ASAP.
+  - spaCy: Go to https://spacy.io/usage/spacy-101 
+	- Read the entire landing page. Don't worry if you don't understand everything.
+	- Work through the first 4 sections from Chapter 1 of the free interactive course "Advanced NLP with spaCy" (https://course.spacy.io/en/)
+  - Let instructor know if you want to introduce one of the concepts for next week before HH/DD/MM.
 
 Session 2:
 - Regex
 - Using spaCy: Tokenization, normalization
 
+*Missing*: A longer spaCy exercise for normalisation and tokenisation
+           A final wrap-up of why regex and why spaCy
+
 Session 3:
 - Language models and deep learning
+
+
+
