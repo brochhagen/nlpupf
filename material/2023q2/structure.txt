@@ -1,3 +1,8 @@
+TO DO:
+  2. Do longer spaCy exercise(s) for normalization and tokenization in a third collab for session 2, see: https://towardsdatascience.com/text-normalization-with-spacy-and-nltk-1302ff430119
+  3. Add a final wrap-up discussion box on why regex and why spacy
+  4. Move on to session 3
+
 Session 1:
 - General overview
 - Everyone introduces themselves and what they expect from the class
