@@ -1,33 +1,37 @@
 TO DO:
-  2. Do longer spaCy exercise(s) for normalization and tokenization in a third collab for session 2, see: https://towardsdatascience.com/text-normalization-with-spacy-and-nltk-1302ff430119
-  3. Add a final wrap-up discussion box on why regex and why spacy
-  4. Move on to session 3
+  - Sketch out the first parts on POS and NER using spaCy intuitively. Make them do a lot by hand
+  - Assignment for session 2: https://course.spacy.io/en/chapter1, section 5 - 7
+  - Read Jurafsky & Martin Chapter 8 up to 8.4 (read further if interested)
+  - [Use J&M Chapter 8 exercises for in session training]
 
 Session 1:
 - General overview
+	- What is linguistic structure (syntax, semantics, morphology, ...)
+	- What is NLP:
+		- Rule-based
+		- Symbolic approached
+		- Distributed approaches
+	- What tasks are there in NLP
 - Everyone introduces themselves and what they expect from the class
-- Exercises on basic tokenization, normalization
-
-
-Instructions for following week:
-  - [OPTIONAL] Introduce spaCy (based on URL):
-	- short introduction of what spacy is (1-3 minutes)
-	- Discuss and solve the exercises from "session02 spaCy"
-  - [OPTIONAL] Introduce regex (based on Jurafsky & Martin's Chapter 2): 3-5 minutes
-  - Read Chapter 2 of Jurafsky & Martin
-  - spaCy: Go to https://spacy.io/usage/spacy-101 
-	- Read the entire landing page. Don't worry if you don't understand everything.
-	- Work through the first 4 sections from Chapter 1 of the free interactive course "Advanced NLP with spaCy" (https://course.spacy.io/en/)
-  - Let instructor know if you want to introduce one of the concepts for next week before HH/DD/MM.
+- Exercises on basic tokenization, normalisation
 
 Session 2:
 - Regex
 - Using spaCy: Tokenization, normalization
 
-*Missing*: A longer spaCy exercise for normalisation and tokenisation
-           A final wrap-up of why regex and why spaCy
+Session 3: Tagging (PoS & Named Entities)
+- What is a PoS? Thrax and the tradition of POS as models
+- Named entities (proper names)
+- Tasks: POS tagging; and NER (both subsumed under "sequence labelling tasks)
+- Baselines: What are they good for? What is a good baseline? Discuss Most Frequent Class Baseline
+- Difference between POS and NER: segmentation for the latter
+- EX:
+ - Manually tag two sentences. Discuss
 
-Session 3:
+
+
+
+Session N:
 - Language models and deep learning
 
 
