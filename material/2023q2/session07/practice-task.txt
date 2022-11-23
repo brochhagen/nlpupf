@@ -1,0 +1,43 @@
+TO DO: Expand list of cases:
+https://en.as.com/soccer/?omnil=mpal
+
+Split into train/test
+
+Level 0:
+	- Define list of verb to describe winning/losing
+	- Define list of countries 
+	- Use dependency parser to discover if countries from list stand in relation described by verb list
+Level 1:
+    - Return cases that are not covered by the verbs but involve the two countries, for human validation/addition to the list
+Level 2:
+    - Use semantic vectors to expand the list
+
+
+=========
+
+Argentina - UAB (2016)
+
+Lionel Messi played the full 90 minutes and got on the scoresheet as Argentina beat the United Arab Emirates 5-0 in their final World Cup warmup match.
+
+The Argentina captain scored their fourth goal just before the break as the pre-tournament favourites stretched their unbeaten run to 36 games. Messi also set up Manchester City’s Julián Álvarez to open the scoring in the 17th minute, and has now scored 10 goals in his past four international matches.
+
+Ángel Di María also showed he is approaching peak form with two fine first-half goals in Abu Dhabi, superbly volleying home Marcos Acuña’s cross at the far post in the 25th minute. The Juventus winger, who has recovered from a thigh injury in time for Qatar, dribbled through the hosts’ defence 11 minutes later to score his second.
+
+
+===
+
+France - Australia (2022)
+
+Giroud ties record as France pummels Australia
+
+Not tonight! That's what France shouted in Qatar as the game came to a close. The French national team saw Argentina vs Saudi Arabia and didn't want to face the same consequences. There are no small rivals, every team should always know this, a saying as old as the sport, yet teams never seem to learn it. Well, the French did so for 83 minutes. Australia was better in the first 7 minutes, and they went up in the game.
+
+Australia also saw the Argentina game. They also believed they could win this. For a bit, they did do the miracle. But this is too much France. This is too much of a team. Mbappe and Dembele started to get in the game, and from the right and left, the blue wave came, and Australia tried to hold on as much as possible.
+
+
+===
+
+
+
+
+
