@@ -4,18 +4,22 @@ output:
   html_document: default
 urlcolor: blue
 ---
-# NLP session 02: Preparation for next session
+# NLP session 06: Preparation for next session
 
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 8: "[Sequence Labeling for Parts of Speech and Named Entities]https://web.stanford.edu/~jurafsky/slp3/8.pdf)"
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 12 until the end of 12.4, and Section 12.7: "[Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)"
  
-   * Work through sections 5-9 from Chapter 1 of the free interactive course "Advanced NLP with spaCy": [https://course.spacy.io/en/](https://course.spacy.io/en/)
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 13 until the end of 13.1: "[Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)"
+ 
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 14 until the end of 12.3: "[Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf)"
+
+  * Have a look at the [short general description](https://spacy.io/usage/linguistic-features#dependency-parse) of spaCy's parser; as well as a closer look at the [documentation](https://spacy.io/api/dependencyparser)
 
 ### Optional
 
 There are three topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
 
-  1. Give an introduction to *Part of Speech Tagging* (3-5 minutes), based on Jurafsky & Martin's Chapter 8 (from the beginning of the chapter to the end of 8.2)
+  1. Give an introduction to *Constituency and Constituency Grammars* (5-15 minutes), based on Jurafsky & Martin's Chapter 12 (from the beginning of the chapter to the end of 12.3). This counts as two in-class participation grades.
   
-  2. Give an introduction to *Named Entity Tagging* (3-5 minutes), based on Jurafsky & Martin's Chapter 8 (subsection 8.3, focusing on explaining BIO, IO, and BIOES tagging)
+  2. Explain some challenges of *Constituency parsing* (3-5 minutes), based on Jurafsky & Martin's Chapter 13 (from the beginning of the chapter to the end of 13.1)
 
-  3. Introduce HMM Part-of-Speech Tagging, based on Jurafsky & Martin's Chapter 8 (subsection 8.4). This is a more complex topic and you will need more than a few minutes to explain it. Accordingly, it counts for your entire in-class participation grade. 
+  3. Give an introduction to *Dependencies and dependency parsing* (5-15 minutes), based on Jurafsky & Martin's Chapter 14 (from the beginning of the chapter to the end of 14.3). Thematize the relationship and differences between constituents and dependencies. This counts as two in-class participation grades.
