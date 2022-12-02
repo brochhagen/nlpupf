@@ -4,18 +4,24 @@ output:
   html_document: default
 urlcolor: blue
 ---
-# NLP session 02: Preparation for next session
+# Exercise 1: Zipf's Law of Abbreviation
 
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 8: "[Sequence Labeling for Parts of Speech and Named Entities]https://web.stanford.edu/~jurafsky/slp3/8.pdf)"
- 
-   * Work through sections 5-9 from Chapter 1 of the free interactive course "Advanced NLP with spaCy": [https://course.spacy.io/en/](https://course.spacy.io/en/)
+This exercise counts 25% toward your final grade. Your task is to write a brief report on whether Zipf's Law of Abbreviation holds for (i) a different language than English and (ii) a different genre of text in English (e.g., music lyrics, poems, forum entries, tweets). The report should be a PDF document; no longer than 2 pages. It should include the sections described below. The 2-page limit does not include references (optional); supplementary material (optional); and the list of contributions (only if working in groups).
 
-### Optional
+***
 
-There are three topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
+### Introduction (10%)
 
-  1. Give an introduction to *Part of Speech Tagging* (3-5 minutes), based on Jurafsky & Martin's Chapter 8 (from the beginning of the chapter to the end of 8.2)
-  
-  2. Give an introduction to *Named Entity Tagging* (3-5 minutes), based on Jurafsky & Martin's Chapter 8 (subsection 8.3, focusing on explaining BIO, IO, and BIOES tagging)
+What is Zipf's Law of Abbreviation? What language will you test and why? What genre will you test and why? Explain your expectations prior to conducting the analysis.
 
-  3. Introduce HMM Part-of-Speech Tagging, based on Jurafsky & Martin's Chapter 8 (subsection 8.4). This is a more complex topic and you will need more than a few minutes to explain it. Accordingly, it counts for your entire in-class participation grade. 
+### Material and methods (20%)
+Describe your approach to answer the question whether Zipf's Law of Abbreviation holds for (i) and (ii), as well as the data you will be using (where did you get it? how did you process it?). In particular, explain how you tokenized the data.
+
+### Results (40%)
+Your main results. Does the Law hold for (i) and (ii)? Why (not)? Were your expectations met? Do you think your results would generalize to other data of the same kind? Why (not)? Discuss limitations of your data and methods.
+
+### Code (30%: 20% replicability/10% clarity)
+Add a link to the code (hosted on, e.g., [OSF](https://osf.io/) or [github](https://github.com/)) or send it in with your submission. Remember to extensively comment your code. Mention the dependencies that need to be fulfilled to run the code.
+
+### List of contributions (unlimited space / only if working in groups)
+Who did what in your group. You can use the [CRediT](https://credit.niso.org/) system or a variant thereof.
