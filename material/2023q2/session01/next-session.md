@@ -17,6 +17,6 @@ urlcolor: blue
 
 There are two topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
 
-  1. Give an introduction to *regular Expressions* (3-5 minutes), based on Jurafsky & Martin's Chapter 2
+  1. Give an introduction to *regular Expressions* (5-10 minutes), based on Jurafsky & Martin's Chapter 2
   
-  2. Introduce spacy by (i) briefly saying what it is (1-3 minutes) and (ii) talk the class through the spaCy exercises found under "02 SpaCy introduction" in Aula Global
+  2. Introduce spacy by (i) briefly saying what it is (1-3 minutes) and (ii) talk the class through the spaCy exercises found under "02 SpaCy introduction" in Aula Global (5-20 minutes)

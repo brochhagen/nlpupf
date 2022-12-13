@@ -1,0 +1,146 @@
+TO DO: Expand list of cases:
+https://en.as.com/soccer/?omnil=mpal
+
+Split into train/test
+
+Level 0:
+	- Define list of verb to describe winning/losing
+	- Define list of countries 
+	- Use dependency parser to discover if countries from list stand in relation described by verb list
+Level 1:
+    - Return cases that are not covered by the verbs but involve the two countries, for human validation/addition to the list
+Level 2:
+    - Use semantic vectors to expand the list
+
+
+=========
+
+Argentina - UAB (2016)
+
+Lionel Messi played the full 90 minutes and got on the scoresheet as Argentina beat the United Arab Emirates 5-0 in their final World Cup warmup match.
+
+The Argentina captain scored their fourth goal just before the break as the pre-tournament favourites stretched their unbeaten run to 36 games. Messi also set up Manchester City’s Julián Álvarez to open the scoring in the 17th minute, and has now scored 10 goals in his past four international matches.
+
+Ángel Di María also showed he is approaching peak form with two fine first-half goals in Abu Dhabi, superbly volleying home Marcos Acuña’s cross at the far post in the 25th minute. The Juventus winger, who has recovered from a thigh injury in time for Qatar, dribbled through the hosts’ defence 11 minutes later to score his second.
+
+
+===
+
+France - Australia (2022)
+
+Giroud ties record as France pummels Australia
+
+Not tonight! That's what France shouted in Qatar as the game came to a close. The French national team saw Argentina vs Saudi Arabia and didn't want to face the same consequences. There are no small rivals, every team should always know this, a saying as old as the sport, yet teams never seem to learn it. Well, the French did so for 83 minutes. Australia was better in the first 7 minutes, and they went up in the game.
+
+Australia also saw the Argentina game. They also believed they could win this. For a bit, they did do the miracle. But this is too much France. This is too much of a team. Mbappe and Dembele started to get in the game, and from the right and left, the blue wave came, and Australia tried to hold on as much as possible.
+
+
+===
+
+Iran - England (2022): 6-2
+
+First up, it was England with a point to prove, and oh how they proved it. After being denied a clear penalty early on, England finally got their goal 35 minutes in. 
+
+It was Liverpool’s number one transfer target Jude Bellingham that gave the Three Lions the lead with a fantastic header, reminiscent of his idol Steven Gerrard’s in the 2005 Champions League final. 
+
+Southgate’s men soon made it two then three just before halftime. Bakayo Saka’s outstanding finish after Harry Maguire knocking it back to him doubled their lead and Raheem Sterling added the third after wonderful work by Harry Kane. 
+
+After the break, the game continued to go down the same path. Arsenal’s Saka added another for himself after tricking two Iranian defenders to then place it past the keeper with ease.
+
+Harry Maguire then got caught sleeping and Iran got a shock goal through Mehdi Taremi, which did not go down well with Jordan Pickford. 
+
+Substitutes Marcus Rashford and Jack Grealish added yet more goals for England, making it 6-1. However, Iran weren’t done either, Taremi scoring his second, this time from the spot. 
+
+England’s empathic 6-2 win against the 20th ranked in the world sets a marker down for the rest of the teams. They play USA on Friday next. 
+
+
+
+
+====
+
+Brazil - Switzerland (1-0)
+
+I'm tired after that. ​​​​​​​It took a long, long time for Brazil to get into their groove and become, well, Brazil. They did it in the end, thanks to Casemiro, and by the final stages of the game the confidence was there for all to see. They weren't particularly special by any means, but they worked hard and never stopped attacking. In the end, 1-0 is probably a fair result.
+
+Switzerland lacked ambition, a difficult trait to have against the Seleção, I admit, but they defence kept up well for the whole game, minus probably three lapses of concentration: Vini's chance and offside attempt plus Casemiro's strike. Brazil did not dominate Switzerland; but Brazil did win.
+
+And in the end, it was that moment of brilliance that decided the game and Brazil are top of the group and through to the next round. Along with France, they are the only team to have 2 wins from 2. 
+
+
+====
+
+Portugal - Uruguay (2-0)
+
+Portugal wanted it more than Uruguay.
+
+We don’t want Brazil. Portugal’s first thought tonight when coming into the match. Portgual controlled the game for 70 minutes of the match. They just wanted it more, as they proposed from the beginning. Not always in a correct way, not always with a plan, but knowing they wanted to win this one. 
+
+Uruguay, where were you? The Charruas gave 25 minutes of great Football. Pallestri was amazing from the right. Coming and coming, but it was not enough. One can’t expect to beat a team like Portugal by speculating. Alonso played it for the tie and the what-if moment, but why? They clearly have the tools to win.
+
+Portugal is a team of great players that have no idea what they are doing. Bruno and Bernardo were amazing tonight, individually, but Portugal has a lot to work on as a team. They are just too good that their lack of coaching goes unnoticed. They, for now, avoid Brazil, but they need to work on being a band of brothers. In the end, Uruguay lost due to lack of action.
+
+
+====
+
+USA - Iran (1-0)
+
+Huge win for USA. Defensively, the US stayed tight and in midfield, Yunus Musah, Tyler Adams and Weston McKennie impressed, getting through a huge amount of work.
+
+It was a solid performance throughout. They put their bodies on the line in what was a proper team display. 
+
+Christian Pulisic scored arguably the biggest goal of his career, however, ​​​​it remains to be seen if he will be back for Saturday's clash against the Netherlands. 
+
+The match against the Netherlands will be a huge test for Gregg Berhalter's young side, who will be confident of getting a result and progressing to the quarter-finals.​​​​​​​
+
+The US have finished second in Group B, behind group winners England, while Iran have been knocked out. 
+
+
+===
+
+Ecuador 1 - 2 Senegal
+
+Clement Turpin blows the whistle and Ecuador's World Cup is over. They join Qatar as the teams dumped out of Group A.
+
+Ecuador had frustrated Senegal for much of the first-half, knowing their opponents needed to win to progress, but the Africans were awarded a penalty late on after Piero Reyna fouled Ismaila Sarr. The Watford winger confidently tucked his spot-kick away to put Senegal into the driving seat at the break.
+
+The South Americans struggled offensively all game but dug out an equaliser through Moisés Caicedo. A draw would have been enough to send them through but their hope lasted just 150 seconds as Kalidou Koulibaly restored Senegal’s lead.
+
+Ecuador could not muster another big chance and it ended 1-2 after six nerve-racking minutes of stoppage-time.
+
+
+====
+
+Japan - Spain 2-1
+
+Having in the first half looked like they were going to stroll into the last 16 as group winners, Spain were completely blown away by Japan after the break. You'll struggle to find a better definition of that old football cliché 'a game of two halves'.
+
+The Spaniards are through as Group E runners-up, but even flirted with going out altogether. For the three minutes that Costa Rica were ahead against Germany, La Roja were heading for elimination.
+
+As for Japan, they may have been non-existent in the first half, but they were marvellous in the second. As Luis Enrique says, having beaten Spain and Germany, the Samurai Blue are deserved group winners.
+
+The Japanese will now take on Croatia in the last 16, while Spain will face Morocco.
+
+
+===
+
+Brazil - S. Kora 4-1
+
+Brazil were simply irresistible in the first half. They went in at the break 4-0 up and it could easily have been seven or eight. Yes, South Korea caused their own problems by pushing so far up the pitch and leaving so few players back but Brazil still had to know how to exploit it and exploit it they did. There was only going to be one winner after Vinícius' opening goal, quickly followed by a Neymar penalty. All in favour of Brazil. Goals three and four were things of beauty; fast, crisp passing moves finished off by Richardson and Lucas Paquetà. On that form, there is no stopping Brazil, who paid the best tribute to Pelé, watching in his hospital bed in São Paolo. 
+
+
+===
+
+Morocco - Spain Penalties win for M.
+
+Morocco’s Bono and Hakimi make history for Morocco after defeating Spain on penalties, booking their spot in their first Quarter-Finals. The North African team became the first African side to reach the World Cup quarter-finals since 2010, and the first African team to win a penalty shootout at the World Cup.
+
+
+====
+
+
+Morrocco - Portugal 1:0
+
+Morocco proved to the world that they deserve to be considered among the best at the World Cup. They have made it to the semifinals, the first African team to ever make it to this stage. They first topped their group, beating Canada and Belgium and coming to a scoreless draw with Croatia. They went on to beat Spain on a penalty shootout in the Round of 16. And now, they’ve defeated Portugal in a 1-0 victory that most people were not expecting. Now though, as they get ready to face France in the semifinals, they should not be underestimated.
+
+
+

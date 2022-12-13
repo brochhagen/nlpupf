@@ -4,24 +4,14 @@ output:
   html_document: default
 urlcolor: blue
 ---
-# Exercise 1: Zipf's Law of Abbreviation
+# NLP session 03: Preparation for next session
 
-This exercise counts 25% toward your final grade. Your task is to write a brief report on whether Zipf's Law of Abbreviation holds for (i) a different language than English and (ii) a different genre of text in English (e.g., music lyrics, poems, forum entries, tweets). The report should be a PDF document; no longer than 2 pages. It should include the sections described below. The 2-page limit does not include references (optional); supplementary material (optional); and the list of contributions (only if working in groups).
+Read chapter 1.3 (["Transformers, what can they do?"](https://huggingface.co/course/chapter1/3?fw=pt )), up until the end of the chapter ("Summary") of the [Hugging Face tutorial](https://huggingface.co/course/chapter1/1): [https://huggingface.co/course/chapter1/3?fw=pt](https://huggingface.co/course/chapter1/3?fw=pt )
+ 
+### Optional
 
-***
+There are two topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
 
-### Introduction (10%)
-
-What is Zipf's Law of Abbreviation? What language will you test and why? What genre will you test and why? Explain your expectations prior to conducting the analysis.
-
-### Material and methods (20%)
-Describe your approach to answer the question whether Zipf's Law of Abbreviation holds for (i) and (ii), as well as the data you will be using (where did you get it? how did you process it?). In particular, explain how you tokenized the data.
-
-### Results (40%)
-Your main results. Does the Law hold for (i) and (ii)? Why (not)? Were your expectations met? Do you think your results would generalize to other data of the same kind? Why (not)? Discuss limitations of your data and methods.
-
-### Code (30%: 20% replicability/10% clarity)
-Add a link to the code (hosted on, e.g., [OSF](https://osf.io/) or [github](https://github.com/)) or send it in with your submission. Remember to extensively comment your code. Mention the dependencies that need to be fulfilled to run the code.
-
-### List of contributions (unlimited space / only if working in groups)
-Who did what in your group. You can use the [CRediT](https://credit.niso.org/) system or a variant thereof.
+  1. Give an introduction to *word embeddings* (5-20 minutes). You are free to choose how you go about this. Be creative and pedagogically mindful. 
+  
+  2. Give an introduction to *scalars*, *vectors*, *matrices* and *tensors* (5-30). You are free to choose how you go about this. Be creative and pedagogically mindful. This counts twice for participation credit.
