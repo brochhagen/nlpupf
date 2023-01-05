@@ -12,6 +12,6 @@ Read chapter 1.3 (["Transformers, what can they do?"](https://huggingface.co/cou
 
 There are two topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
 
-  1. Give an introduction to *word embeddings* (5-20 minutes). You are free to choose how you go about this. Be creative and pedagogically mindful. 
+  1. Give an introduction to *word embeddings*. You are free to choose how you go about this. Be creative and pedagogically mindful. This counts twice for participation credit.
   
-  2. Give an introduction to *scalars*, *vectors*, *matrices* and *tensors* (5-30). You are free to choose how you go about this. Be creative and pedagogically mindful. This counts twice for participation credit.
+  2. Give an introduction to *scalars*, *vectors*, *matrices* and *tensors*. You are free to choose how you go about this. Be creative and pedagogically mindful. This counts twice for participation credit.

@@ -11,6 +11,6 @@ urlcolor: blue
 
 ### Optional
 
-There is one topic you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
+There is one topic you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way others will know that the topic is already taken. 
 
-  1. Explain matrix and vector multiplication through brief examples and exercises (5-20 minutes)
+  1. Explain matrix and vector multiplication through brief examples and exercises
