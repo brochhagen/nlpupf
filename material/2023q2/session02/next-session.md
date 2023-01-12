@@ -6,9 +6,13 @@ urlcolor: blue
 ---
 # NLP session 02: Preparation for next session
 
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 8: "[Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)"
+  * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 8: "[Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)"
+
+  * Work through sections 5-9 from Chapter 1 of the free interactive course "Advanced NLP with spaCy": [https://course.spacy.io/en/](https://course.spacy.io/en/)
  
-   * Work through sections 5-9 from Chapter 1 of the free interactive course "Advanced NLP with spaCy": [https://course.spacy.io/en/](https://course.spacy.io/en/)
+   * Programming practice:
+     * Define a function that takes two strings as arguments, and returns an integer with the number of occurences of the first string in the second one;
+     * Embed your function in a script that takes a link to a Project Gutenberg book (`.txt`) as an argument together with a word to query the frequency of. Make the script print: (i) the title of the book and (ii) the frequency of the word passed as a query.
 
 ### Optional
 
