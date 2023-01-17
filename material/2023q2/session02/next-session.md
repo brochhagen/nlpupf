@@ -9,6 +9,8 @@ urlcolor: blue
   * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 8: "[Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)"
 
   * Work through sections 5-9 from Chapter 1 of the free interactive course "Advanced NLP with spaCy": [https://course.spacy.io/en/](https://course.spacy.io/en/)
+  
+  * Do (at least) the outstanding exercises 4 and 5 from class (Are the recipes vegan or vegetarian? and What are the 5 most frequently mentioned ingredients?). 
  
    * Programming practice:
      * Define a function that takes two strings as arguments, and returns an integer with the number of occurences of the first string in the second one;
