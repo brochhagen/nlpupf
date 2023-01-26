@@ -6,7 +6,9 @@ urlcolor: blue
 ---
 # NLP session 03: Preparation for next session
 
-Read chapter 1.3 (["Transformers, what can they do?"](https://huggingface.co/course/chapter1/3?fw=pt )), up until the end of the chapter ("Summary") of the [Hugging Face tutorial](https://huggingface.co/course/chapter1/1): [https://huggingface.co/course/chapter1/3?fw=pt](https://huggingface.co/course/chapter1/3?fw=pt )
+* Read chapter 1.3 (["Transformers, what can they do?"](https://huggingface.co/course/chapter1/3?fw=pt )), up until the end of the chapter ("Summary") of the [Hugging Face tutorial](https://huggingface.co/course/chapter1/1): [https://huggingface.co/course/chapter1/3?fw=pt](https://huggingface.co/course/chapter1/3?fw=pt )
+
+* Do exercises on NER from last session (in `01 Labeling`)
  
 ### Optional
 
