@@ -6,11 +6,11 @@ urlcolor: blue
 ---
 # NLP session 06: Preparation for next session
 
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 12 until the end of 12.4, and Section 12.7: "[Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)"
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/old_dec21/)'s Chapter 12 until the end of 12.4, and Section 12.7: "[Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/old_dec21/12.pdf)"
  
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 13 until the end of 13.1: "[Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)"
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/old_dec21/)'s Chapter 13 until the end of 13.1: "[Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/old_dec21/13.pdf)"
  
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 14 until the end of 12.3: "[Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf)"
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/old_dec21/)'s Chapter 14 until the end of 12.3: "[Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/old_dec21/14.pdf)"
 
   * Have a look at the [short general description](https://spacy.io/usage/linguistic-features#dependency-parse) of spaCy's parser; as well as a closer look at the [documentation](https://spacy.io/api/dependencyparser)
 
