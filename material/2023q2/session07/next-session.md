@@ -8,6 +8,7 @@ urlcolor: blue
 * Read sections 1 and 2.3 of *[Recent Advances in Document Summarization](https://link.springer.com/article/10.1007/s10115-017-1042-4?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot)* (get preprint [here](https://wanxiaojun.github.io/summ_survey_draft.pdf))
 
 * Download the DailyMail data from the [CNN/DailyMail summarization dataset](https://github.com/abisee/cnn-dailymail). I recommend downloading a (slightly pre-processed) version directly from here (second link): [https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail). Prepare the DailyMail data for processing, by writing a script that returns, for each story, (i) a tokenized version of the story itself and (ii) a tokenized concatenation of its highlights (end of each story)
+
 ### Optional
 
 There are two topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
