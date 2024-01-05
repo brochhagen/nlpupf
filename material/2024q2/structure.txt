@@ -1,0 +1,38 @@
+TO DO:
+  - Sketch out the first parts on POS and NER using spaCy intuitively. Make them do a lot by hand
+  - Assignment for session 2: https://course.spacy.io/en/chapter1, section 5 - 7
+  - Read Jurafsky & Martin Chapter 8 up to 8.4 (read further if interested)
+  - [Use J&M Chapter 8 exercises for in session training]
+
+Session 1:
+- General overview
+	- What is linguistic structure (syntax, semantics, morphology, ...)
+	- What is NLP:
+		- Rule-based
+		- Symbolic approached
+		- Distributed approaches
+	- What tasks are there in NLP
+- Everyone introduces themselves and what they expect from the class
+- Exercises on basic tokenization, normalisation
+
+Session 2:
+- Regex
+- Using spaCy: Tokenization, normalization
+
+Session 3: Tagging (PoS & Named Entities)
+- What is a PoS? Thrax and the tradition of POS as models
+- Named entities (proper names)
+- Tasks: POS tagging; and NER (both subsumed under "sequence labelling tasks)
+- Baselines: What are they good for? What is a good baseline? Discuss Most Frequent Class Baseline
+- Difference between POS and NER: segmentation for the latter
+- EX:
+ - Manually tag two sentences. Discuss
+
+
+
+
+Session N:
+- Language models and deep learning
+
+
+
