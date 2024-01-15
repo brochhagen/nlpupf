@@ -8,7 +8,7 @@ urlcolor: blue
 
 This exercise counts 30% toward your final grade. Your task is to write a brief report on an NLP-related project. You are free to choose. As before, the report should be a PDF document; no longer than 2 pages. It should include the sections described below. The 2-page limit does not include references (optional); supplementary material (optional); and the list of contributions (only if working in groups).
 
-If you cannot think of any particular project of interest to you, feel free to do the task from Exercise 2 that you did not do before. The grading will be adjusted for the 5% extra that this exercise is worth.
+If you cannot think of any particular project of interest to you, feel free to build on your work from Exercise 2. The grading will be adjusted for the 5% extra that this exercise is worth so do make sure to present a clean and clear expansion of your previous work.
 
 ***
 
