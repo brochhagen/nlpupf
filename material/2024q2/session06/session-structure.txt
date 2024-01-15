@@ -1,0 +1,6 @@
+- Matrix + vector multiplication
+- Give an overview of NNs
+
+=== // break // ===
+- The two student presentations
+- NN linear regression
