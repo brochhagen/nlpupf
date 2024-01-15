@@ -10,6 +10,11 @@ urlcolor: blue
 
   * Work through sections 5-9 from Chapter 1 of the free interactive course "Advanced NLP with spaCy": [https://course.spacy.io/en/](https://course.spacy.io/en/)
   
+  * Do (at least) the outstanding exercises 4 and 5 from class (Are the recipes vegan or vegetarian? and What are the 5 most frequently mentioned ingredients?). 
+ 
+   * Programming practice:
+     * Define a function that takes two strings as arguments, and returns an integer with the number of occurences of the first string in the second one;
+     * Embed your function in a script that takes a link to a Project Gutenberg book (`.txt`) as an argument together with a word to query the frequency of. Make the script print: (i) the title of the book and (ii) the frequency of the word passed as a query.
 
 ### Optional
 
