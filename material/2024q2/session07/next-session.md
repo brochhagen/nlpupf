@@ -4,7 +4,7 @@ output:
   html_document: default
 urlcolor: blue
 ---
-# NLP session 06: Preparation for next session
+# NLP session 07: Preparation for next session
 
  * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/old_dec21/)'s Chapter 12 until the end of 12.4, and Section 12.7: "[Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/old_dec21/12.pdf)"
  
