@@ -5,7 +5,7 @@ output:
 urlcolor: blue
 ---
 # NLP session 06: Preparation for next session
- * Watch the final lecture of [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) (Let's build GPT: from scratch, in code, spelled out). If you are confident in your understanding of bigram models and backpropagation, you can skip/fast-forward the contents from about minute 22 to minute 42. Watch at least until 1:19. The remainder of the video is interesting but not essential to understand the basics of large language models such as GPT. We will not discuss the content from 1:19 onward in detail in this class.
+ * Watch the lecture of [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) *Let's build GPT: from scratch, in code, spelled out*. If you are confident in your understanding of bigram models and backpropagation, you can skip/fast-forward the contents from about minute 22 to minute 42. Watch at least until 1:19. The remainder of the video is interesting but not essential to understand the basics of large language models such as GPT. We will not discuss the content from 1:19 onward in detail in this class.
  * Read Chapter 1, *Introduction to human-in-the-loop machine learning*, from the book "Human-in-the-Loop Machine Learning" (PDF in Aula Global)
  
  
