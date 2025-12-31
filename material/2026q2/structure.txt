@@ -1,0 +1,21 @@
+W1 13/01: Organization + Handling text
+
+* Missing: 
+
+W2 20/01:
+	* Regex + spaCy 
+	* Hand out Exercise 1
+W3 27/01 
+	* Sequence labelling
+W4 03/02
+	* Transformers + Embeddings
+W5 10/02 
+	* Neural networks from scratch
+	* Exercise 1 Due
+W6 17/02
+	* Character-level LMs
+	* Exercise 2 hand out
+W7 24/02
+W8 03/03
+	* Exercise 2 due
+W9 10/03

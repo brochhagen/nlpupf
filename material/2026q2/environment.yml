@@ -1,0 +1,28 @@
+name: nlpupf
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - nltk
+  - gensim
+  - tqdm
+  - jupyter
+  - notebook
+  - ipywidgets
+  - spacy
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly # Remove this line if you have an NVIDIA GPU and want to use CUDA
+  - pip:
+    - transformers
+    - datasets
+    - evaluate
