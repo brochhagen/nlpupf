@@ -6,7 +6,7 @@ urlcolor: blue
 ---
 # NLP session 01: Preparation for next session
 
- * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 2: "[Regular Expressions, Text Normalization, Edit Distance](https://web.stanford.edu/~jurafsky/slp3/2.pdf)"
+ * Read [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)'s Chapter 2: "[Words and Tokens](https://web.stanford.edu/~jurafsky/slp3/2.pdf)"
  
  * Go to [https://spacy.io/usage/spacy-101](https://spacy.io/usage/spacy-101):
    * Read the entire presentation page. Don't worry if you don't understand everything. You will at the end of the class. 
@@ -15,8 +15,10 @@ urlcolor: blue
 
 ### Optional
 
-There are two topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
+There are three topics you could introduce next week. This would count toward your in-class participation grade. If you want to present one of them, announce this on this week's forum on Aula Global. In this way, others will know that the topic is already taken. 
 
-  1. Give an introduction to *regular Expressions*, based on Jurafsky & Martin's Chapter 2
+  1. Give an introduction to *regular Expressions* based on Jurafsky & Martin's Chapter 2 or any other resource you may find useful.
+
+  2. Explain how BPE works. What are its advantages and drawbacks? based on Jurafsky & Martin's Chapter 2 or any other resource you may find useful.
   
-  2. Introduce spacy by (i) briefly saying what it is and (ii) talk the class through the spaCy exercises found under "02 SpaCy introduction" in Aula Global
+  3. Introduce spacy by (i) briefly explaining what it is and (ii) talk the class through the spaCy exercises found under "02 SpaCy introduction" in Aula Global.
