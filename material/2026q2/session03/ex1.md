@@ -8,7 +8,7 @@ urlcolor: blue
 
 This exercise counts 25% toward your final grade. Your task is to write a brief report on whether Zipf's Law of Abbreviation holds for (i) a particular genre of text in English that is not a novel (e.g., music lyrics, poems, forum entries, tweets) and (ii) the same genre in a different language than English. Compare to which degree (i) and (ii) conform to the law, and to which extent they behave the same/differrently and why. The report should be a PDF document; no longer than 2 pages. It should include the sections described below. The 2-page limit does not include references (optional); supplementary material (optional); and the list of contributions (only if working in groups).
 
-After the report has been evaluated, you will be asked to answer 2-3 short questions on it. This counts for the outstanding 20% of your grade for this exercise. Even if working in groups everyone is expected to undertand their report fully and be able to answer any questions about it.
+After the report has been evaluated, you will be asked to answer 2-3 short questions on it. This counts for the outstanding 20% of your grade for this exercise. Even if working in groups, everyone is expected to understand their report fully and be able to answer any questions about it.
 
 ***
 
