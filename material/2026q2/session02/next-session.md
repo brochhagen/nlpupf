@@ -13,7 +13,7 @@ urlcolor: blue
 
 # Recommended
 
-  * If we haven't done so in class: Do (at least) the outstanding exercises 4 and 5 from class (Are the recipes vegan or vegetarian? and What are the 5 most frequently mentioned ingredients?). 
+  * If we haven't done so in class: Finish your implementation of the BPE algorithm. 
 
   
 
@@ -27,4 +27,4 @@ There are four topics you could introduce next week. This would count toward you
 
   3. Introduce HMM Part-of-Speech Tagging, based on Jurafsky & Martin's Chapter 17 (subsection 17.4). This is a more complex topic and you will need more than a few minutes to explain it. Accordingly, it counts for your entire in-class participation grade. 
   
-  4. If we haven't done so in class: Explain your solution to the outstanding exercises 4 and 5 from class (Are the recipes vegan or vegetarian? and What are the 5 most frequently mentioned ingredients?)
+  4. If we haven't done so in class: Walk us through your solution for the BPE algorithm implementation (encoding + decoding).
